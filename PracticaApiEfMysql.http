@@ -1,0 +1,6 @@
+@PracticaApiEfMysql_HostAddress = http://localhost:5056
+
+GET {{PracticaApiEfMysql_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

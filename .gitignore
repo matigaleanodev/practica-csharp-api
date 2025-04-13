@@ -1,0 +1,51 @@
+# Archivos de compilación
+bin/
+obj/
+out/
+
+# Archivos de usuario de Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de Rider o JetBrains
+.idea/
+*.sln.iml
+
+# Dependencias
+packages/
+*.nupkg
+*.snupkg
+
+# Archivos temporales
+*.log
+*.vspscc
+*.vssscc
+*.tmp
+*.bak
+*.swp
+
+# Archivos de seguridad
+secrets.json
+
+# Archivos de configuración de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.env
+
+# Configs y resultados de dotnet
+.vscode/
+*.dbmdl
+*.pdb
+
+# Certificados y HTTPS Dev
+*.pfx
+*.key
+*.cer
+*.pem
+
+# Archivos del sistema
+.vs/
